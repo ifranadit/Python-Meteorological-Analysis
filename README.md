@@ -19,7 +19,7 @@ The project focuses on a two-step process to ensure a robust and visually compel
 * **Diagram Generation:** Uses Python to generate various diagrams, including:
     * Time-series plots to track environmental variables (e.g., average temperature, rainfall) over time.
     * Distribution plots to understand the frequency of different metrics (e.g., wind speed).
-    * Scatter plots and correlation matrices to identify relationships between variables.
+    * Scatter plots and correlation matrices to identify relationships between variables.<br>
 * **Reproducible Analysis:** All cleaning and visualization steps are contained within the `825230176.ipynb` Jupyter Notebook, making the entire analysis process transparent and easy to reproduce.
 
 ---

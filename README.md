@@ -1,4 +1,4 @@
-# 📊 Environmental Data Cleansing & Visualization
+### 📊 Environmental Data Cleansing & Visualization
 
 This repository documents a complete data analysis workflow, from taking a raw, potentially 'dirty' dataset, cleaning it thoroughly using **Pandas**, and then transforming the resulting data into insightful visualizations using **Matplotlib** and **Seaborn**.
 
